@@ -3,7 +3,7 @@ public class SwapNumbers {
 
     public static void main(String[] args) {
 
-        float first = 1.20f, second = 2.45f;
+        float first = 2.20f, second = 6.45f;
 
         System.out.println("--Before swap--");
         System.out.println("First number = " + first);
